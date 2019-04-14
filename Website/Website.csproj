@@ -10,4 +10,20 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\images\austria-map-0.jpg" />
+    <None Include="wwwroot\images\cathedral.jpg" />
+    <None Include="wwwroot\images\day 2.jpg" />
+    <None Include="wwwroot\images\day2-1.jpg" />
+    <None Include="wwwroot\images\day3.jpg" />
+    <None Include="wwwroot\images\day4.jpg" />
+    <None Include="wwwroot\images\day5.jpg" />
+    <None Include="wwwroot\images\day6.jpg" />
+    <None Include="wwwroot\images\day7.jpg" />
+    <None Include="wwwroot\images\day8.jpg" />
+    <None Include="wwwroot\images\mariazell.jpeg" />
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\StyleSheet.css" />
+  </ItemGroup>
+
 </Project>
