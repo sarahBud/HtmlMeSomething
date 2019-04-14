@@ -15,10 +15,18 @@ body {
     padding: 35px;
 }
 
+hr {
+    margin: 20px 0px 20px 0p;
+    padding: 0px;
+    border: 0;
+    border-bottom: 4px solid #000033;
+}
 
-p {
-    margin-top: 0;
-    text-align: justify;
+hr {
+    margin: 20px 0px 20px 0p;
+    padding: 0px;
+    border: 0;
+    border-bottom: 4px solid #000033;
 }
 
 h3 {
