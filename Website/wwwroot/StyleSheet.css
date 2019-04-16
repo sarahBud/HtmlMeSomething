@@ -5,11 +5,23 @@ html{
     padding: 0;
 }
 
+.fancy {
+    text-shadow: -1px -1px 0 #00b38f, 1px -1px 0 #00b38f, -1px 1px 0 #00b38f, 1px 1px 0 #00b38f;
+}
+
+#name {
+    color: turquoise;
+}
+
+p ~ ul {
+    background: #C0D5EC;
+}
+
 body {
-    font: 75% cambria, sans-serif;
+    font: 75% Verdana, sans-serif;
+    color: navy;
     line-height: 1.88889;
-    color: #000033;
-    background: linear-gradient(to left, #33cccc 5%, #003399 100%);
+    background: linear-gradient(to top, #ffffff 5%, #808080 100%);
     background-color: #C0D5EC;
     margin: 35px;
     padding: 35px;
@@ -19,27 +31,21 @@ hr {
     margin: 20px 0px 20px 0p;
     padding: 0px;
     border: 0;
-    border-bottom: 4px solid #000033;
+    border-bottom: 4px solid navy;
 }
 
 hr {
     margin: 20px 0px 20px 0p;
     padding: 0px;
     border: 0;
-    border-bottom: 4px solid #000033;
+    border-bottom: 4px solid navy;
 }
 
-h3 {
-    font: italic normal 1.4em georgia, sans-serif;
-    letter-spacing: 1px;
-    margin-bottom: 0;
-    color: #5756C2;
-}
 
 a:link {
     font-weight: bold;
     text-decoration: none;
-    color: #00b38f;
+    color: navy;
 }
 
 a:visited {
@@ -56,6 +62,8 @@ a:hover, a:focus, a:active {
 abbr {
     border-bottom: none;
 }
+
+
 
 
 
